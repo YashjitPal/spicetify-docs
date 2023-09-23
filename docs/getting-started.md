@@ -38,7 +38,7 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/mai
 
 ## Basic Usage
 
-After installing Spicetify and Spicetify's Marketplace, you can use it to customize your Spotify client using all the available **extensions** and **themes** found in the Marketplace.
+After installing Spicetify and Spicetify's Marketplace, you can use it to customize your Spotify client using all the available **extensions** and **themes** found in the Marketplace.           (Currently tool isnt working)
 
 ### Updating
 
